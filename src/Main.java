@@ -22,5 +22,6 @@ public class Main {
 
 
         System.out.println("Ucgenin Alanı= " + Alan + " cm2");
+        System.out.println("Sistem çevre formülü sanki hatali");
     }
 }
